@@ -1,0 +1,8 @@
+inherit kde4
+
+NAME="kde-l10n-de"
+VERSION=4.8.3
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE German translation files"
+DESCRIPTION="KDE German translation files"
